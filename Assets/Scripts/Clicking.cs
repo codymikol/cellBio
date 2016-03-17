@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-using UnityEngine.UI;//test
+using UnityEngine.UI;//testafgain
 
 public class Clicking : MonoBehaviour {
 	Ray ray;
